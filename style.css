@@ -1,6 +1,7 @@
 html {
+    
     box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-align: center;
 }
 
@@ -40,10 +41,11 @@ nav ul li {
     margin-bottom: 2%;
 }
 .para, p {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Merriweather', sans-serif;
 }
 
 .main {
+   
     display: inline-block;
     margin: 1% 5%;
     text-align: center;
